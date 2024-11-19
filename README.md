@@ -1,12 +1,19 @@
-- 👋 Hello world! my name is Sabari
-- 👀 I’m interested in Artificial Intelligence, Web development, Software development and Electronics design
-- 🌱 I’m currently learning Data Science and Algorithms
-- 💞️ I’m looking to collaborate on ...
-- 📫 Talk to me in sabari6277@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hello, World! I'm Sabari
+💡 About Me
+I am passionate about Artificial Intelligence, Frontend Development, Web Development, Software Development, and Electronics Design. My journey involves exploring cutting-edge technologies and building innovative solutions that create an impact.
 
-<!---
-Sabari-SBR/Sabari-SBR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Currently Learning
+I am diving deeper into Data Science, Algorithms, and Full Stack Development, continuously enhancing my skills to solve real-world problems.
+
+💼 Collaboration
+I'm excited to collaborate on projects related to AI, Frontend Development, and innovative software solutions. If you have an idea or need a partner for an ambitious project, let's connect!
+
+📫 Get in Touch
+
+Email: sabari6277@gmail.com
+LinkedIn: linkedin.com/in/sabari6277
+😄 Pronouns
+He/Him
+
+⚡ Fun Fact
+Dear universities, writing codes on paper doesn’t make us programmers.
