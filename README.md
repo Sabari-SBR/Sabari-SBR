@@ -7,7 +7,6 @@ I am diving deeper into Data Science, Algorithms, and Full Stack Development, co
 I'm excited to collaborate on projects related to AI, Frontend Development, and innovative software solutions. If you have an idea or need a partner for an ambitious project, let's connect!  
 📫 Get in Touch  
 Email: sabari6277@gmail.com  
-LinkedIn: linkedin.com/in/sabari6277  
 😄 Pronouns  
 He/Him  
 ⚡ Fun Fact  
